@@ -24,6 +24,7 @@ h3:hover{
     color:#f3bd51;
 }
 hr{
+    margin: 0 auto;
     width: 20%;
     border-style: none;
     border-top: dotted;
