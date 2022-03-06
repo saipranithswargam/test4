@@ -36,6 +36,9 @@ a{
 a:hover{
     color: #99A799;
 }
+i{
+    font-size: x-large;
+}
 .top{
     background-color: #EFFFFD;
     position: relative;
