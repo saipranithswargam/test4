@@ -32,7 +32,7 @@ hr{
 }
 a{
     color: #203239;
-    margin: 50px 20px;
+    margin: 10px 20px;
 }
 a:hover{
     color: #99A799;
@@ -138,7 +138,7 @@ i{
     font-weight: bold;
     font-family: 'Hubballi', cursive;;
     text-align: center;
-    margin-top: 80px;
+/*     margin-top: 80px; */
     padding: 50px;
 /*     background-color: #77f5f5; */
     background-image: linear-gradient(white,#77f5f5);
