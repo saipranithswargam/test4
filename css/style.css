@@ -37,8 +37,9 @@ a{
 a:hover{
     color: #99A799;
 }
-i{
-    font-size: x-large;
+i{ 
+    margin-top: 100px;
+    font-size: xx-large;
 }
 .top{
     background-color: #EFFFFD;
@@ -139,5 +140,6 @@ i{
     text-align: center;
     margin-top: 80px;
     padding: 50px;
-    background-color: #77f5f5;
+/*     background-color: #77f5f5; */
+    background-image: linear-gradient(white,#77f5f5);
 }
